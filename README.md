@@ -63,8 +63,8 @@ $ bash stanphish.sh
 
 ### Run on Docker
 ```
-$ docker pull jhptech/jhpphish
-$ docker run --rm -it jhptech/stanphish
+$ docker pull H4R1PR4S47H/stanphish
+$ docker run --rm -it H4R1PR4S47H/stanphish
 ```
 
 ### Dependencies
@@ -92,5 +92,5 @@ $ docker run --rm -it jhptech/stanphish
 
 
 ### Find Me on :
-
+INSTAGRAM @https://instagram.com/hari.jayram
 

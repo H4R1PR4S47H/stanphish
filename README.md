@@ -1,0 +1,2 @@
+# stanphish
+automated phishing tool

@@ -1,5 +1,5 @@
 FROM debian:10
-LABEL MAINTAINER="https://github.com/H4R1PR4S47H/stanphish"
+LABEL MAINTAINER="https://github.com/hariJP/stanphish"
 
 WORKDIR stanphish/
 ADD . /stanphish

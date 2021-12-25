@@ -1,19 +1,19 @@
 <!-- stanphish -->
 
 <p align="center">
-  <img src=".imgs/logo.png">
+  <img src="Downloads/external.jpeg">
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-2.2-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/jhp-tech/stanphish?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/jhp-tech/stanphish?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/jhp-tech/stanphish?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/jhp-tech/stanphish?color=teal&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/hariJP/stanphish?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/hariJP/stanphish?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/hariJP/stanphish?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/hariJP/stanphish?color=teal&style=for-the-badge">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Author-JHP-TECH-cyan?style=flat-square">
+  <img src="https://img.shields.io/badge/Author-hariJP-cyan?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Bash-cyan?style=flat-square">
 </p>
@@ -50,7 +50,7 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 - Just, Clone this repository -
 ```
-$ git clone git://github.com/jhp-tech/stanphish.git
+$ git clone git://github.com/hariJP/stanphish.git
 ```
 
 - Change to cloned directory and run `stanphish.sh` -
@@ -63,8 +63,8 @@ $ bash stanphish.sh
 
 ### Run on Docker
 ```
-$ docker pull H4R1PR4S47H/stanphish
-$ docker run --rm -it H4R1PR4S47H/stanphish
+$ docker pull hariJP/stanphish
+$ docker run --rm -it hariJP/stanphish
 ```
 
 ### Dependencies

@@ -3,7 +3,7 @@
 ##   stanphish 	: 	Automated Phishing Tool
 ##   Author 	: 	H4R1PR4S47H 
 ##   Version 	: 	12.035.37
-##   Github 	: 	https://github.com/H4R1PR4S47H
+##   Github 	: 	https://github.com/hariJP
 
 
 
@@ -81,7 +81,7 @@
 ##    The precise terms and conditions for copying, distribution and
 ##    modification follow.
 ##
-##      Copyright (C) 2021  HTR-TECH (https://github.com/htr-tech)
+##      Copyright (C) 2021  HTR-TECH (https://github.com/hariJP)
 ##
 
 
@@ -294,8 +294,8 @@ msg_exit() {
 about() {
 	{ clear; banner; echo; }
 	cat <<- EOF
-		${GREEN}Author   ${RED}:  ${ORANGE}HARIPRASATH ${RED}[ ${ORANGE}H4R1PR4S47H ${RED}]
-		${GREEN}Github   ${RED}:  ${CYAN}https://github.com/H4R1PR4S47H
+		${GREEN}Author   ${RED}:  ${ORANGE}HARIPRASATH ${RED}[ ${ORANGE}hariJP ${RED}]
+		${GREEN}Github   ${RED}:  ${CYAN}https://github.com/hariJP
 		${GREEN}Social   ${RED}:  ${CYAN}
 		${GREEN}Version  ${RED}:  ${ORANGE}2.2
 

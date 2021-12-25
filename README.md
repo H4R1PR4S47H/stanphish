@@ -1,7 +1,7 @@
 <!-- stanphish -->
 
 <p align="center">
-  <img src="Downloads/external.jpeg">
+  <img src=".imgs/external.jpeg">
 </p>
 
 <p align="center">
